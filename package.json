@@ -22,6 +22,9 @@
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0"
   },
+  "build": {
+    "compression": "maximum"
+  },
   "config": {
     "forge": {
       "packagerConfig": {},
